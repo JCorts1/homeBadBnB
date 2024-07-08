@@ -1,5 +1,5 @@
 body {
-  background: url("/img/berlin_black.webp");
+  background: url("berlin_black.webp");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
